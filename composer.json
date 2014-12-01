@@ -1,0 +1,24 @@
+{
+	"name": "zhiltsov/MadMD",
+	"type": "library",
+	"description": "Markdown CMS",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Dmitry Zhiltsov",
+			"email": "info@zhiltsov.info"
+		}
+	],
+	"require": {
+		"php": ">=5.4.0"
+	},
+	"require-dev": {
+		"erusev/parsedown": "~1.0",
+		"twig/twig": "~1.0"
+	},
+	"autoload": {
+		"psr-0": {
+			"MadMD": "src/"
+		}
+	}
+}
