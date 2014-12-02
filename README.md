@@ -15,7 +15,7 @@ Just create a `composer.json` file:
 ```json
 {
     "require": {
-        "zhiltsov/MadMD": "dev-master"
+        "zhiltsov/mad-md": "dev-master"
     }
 }
 ```
