@@ -46,3 +46,7 @@ Just create a `composer.json` file:
 
 ## License
 MIT license.
+
+***
+
+![SensioLabsInsight](http://insight.sensiolabs.com/projects/6902374e-4b85-478b-9382-37d66d78f343/big.png)
