@@ -65,4 +65,4 @@ class Application extends Singleton
 			]
 		);
 	}
-} 
+}

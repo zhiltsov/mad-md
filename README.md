@@ -1,4 +1,4 @@
-#MadMD, Markdown CMS
+# MadMD, Markdown CMS
 
 ```php
 <?php
@@ -34,5 +34,15 @@ Just create a `composer.json` file:
     └── index.php
 ```
 
-##License
+## Meta Markdown
+```html
+<!--
+@title Title page
+@description Description page
+@keywords Keywords page
+@template Template file name
+-->
+```
+
+## License
 MIT license.

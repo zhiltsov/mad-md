@@ -81,4 +81,4 @@ class PageManager extends Singleton
 
 		return $arData;
 	}
-} 
+}

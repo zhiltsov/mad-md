@@ -48,15 +48,15 @@ class Route
 	{
 		http_response_code($code);
 		header('Location: ' . $url);
-		die();
 	}
 
 	/**
 	 * 404 Not Found
+	 * @throws \HttpException
 	 */
 	public function set404()
 	{
 		http_response_code(404);
-		die();
+		throw new \HttpException('Not Found', 404);
 	}
-} 
+}
